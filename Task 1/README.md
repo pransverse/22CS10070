@@ -19,4 +19,6 @@ This section of consists of mapping the map coordinates to the game world coordi
 
 For error handling, anytime the target moves in the same direction for more than the distance between the two points, the loop ends and the player _randomly_ moves either towards the next point or the previous point. 
 
-Recording of Level 1 is available in ``Task 1\vizdoom_level_1.mp4``
+Implementation in ``Task 1\github\ViZDoom\examples\python\level_1.py``
+
+Recording of Level 1: <https://clipchamp.com/watch/vcBgBRzlBfv>
